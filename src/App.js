@@ -1,15 +1,13 @@
 import React, { useState } from "react";
 import "./App.css";
 import EventCard from "./components/EventCard";
-import Modal from "./components/Modal"; // Correct casing
-import events from "./data/events.json"; // Correct variable name
+import Modal from "./components/Modal"; 
+import events from "./data/events.json"; 
 
 function App() {
     const [searchQuery, setSearchQuery] = useState("");
     const [selectedEvent, setSelectedEvent] = useState(null);
-
-    // Filter events based on search query
-    const filteredEvents = events.filter((event) =>  // Updated to use 'events'
+    const filteredEvents = events.filter((event) =>  
         event.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
         event.location.toLowerCase().includes(searchQuery.toLowerCase())
     );
