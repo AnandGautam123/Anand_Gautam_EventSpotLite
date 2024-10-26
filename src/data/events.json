@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Music Fest",
+        "date": "2024-10-29",
+        "location": "Central Park",
+        "description": "A vibrant music festival featuring local and international artists.",
+        "image": "https://img.freepik.com/free-photo/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space_637285-559.jpg?t=st=1729910607~exp=1729914207~hmac=4a0104d0d08e5e723b1a50f35eefbcc9b3c43983a7fa55e78b3cb0bd691a23f0&w=1800"
+    },
+    {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-11-10",
+        "location": "City Gallery",
+        "description": "Explore modern art from upcoming artists.",
+        "image": "https://img.freepik.com/premium-photo/quotdedicated-art-corner-display-galleryquot_1324785-99376.jpg?w=1380"
+    },
+    {
+        "id": 3,
+        "name": "Food Truck Rally",
+        "date": "2024-11-03",
+        "location": "Riverside Park",
+        "description": "Savor delicious food from a variety of cuisines at our lively food truck rally!",
+        "image": "https://img.freepik.com/free-vector/camping-with-caravan-illustration-with-couple-campfire_23-2148657069.jpg?t=st=1729910840~exp=1729914440~hmac=fdf3f5bd3bc19f6f9a532a791e1635cb995e662040f0115827176767a5188c87&w=1800"
+    },
+    {
+        "id": 4,
+        "name": "Comedy Night",
+        "date": "2024-11-16",
+        "location": "The Laugh Lounge",
+        "description": "Get ready to laugh out loud with a lineup of hilarious stand-up comedians.",
+        "image": "https://img.freepik.com/free-vector/stand-up-club-neon-sign-retro-microphone-stand-comedy-show-today_1262-13627.jpg?t=st=1729910877~exp=1729914477~hmac=ac0aa71fc45aba08d019fed50d392c1a1487e7f06ca30e5c14f3788115ad6077&w=1800"
+    },
+    {
+        "id": 5,
+        "name": "Movie Marathon",
+        "date": "2024-11-23",
+        "location": "Cozy Cinema",
+        "description": "Settle in for a day of nonstop entertainment with an all-day movie marathon.",
+        "image": "https://img.freepik.com/free-vector/isometric-running-mobile-app-infographic_23-2148228938.jpg?t=st=1729910906~exp=1729914506~hmac=bea96aaf5d9082273dbbed8bda5badddb299d5163221188a3ffbad9030ced2e9&w=1380"
+    },
+    {
+        "id": 6,
+        "name": "Hiking Adventure",
+        "date": "2024-11-09",
+        "location": "Forest Trail (Meeting Point: Town Square)",
+        "description": "Explore the beauty of nature with a guided hike through scenic trails.",
+        "image": "https://img.freepik.com/free-photo/traveling-with-off-road-car_23-2151472966.jpg?t=st=1729910937~exp=1729914537~hmac=da952bc6fb86671b6c2019eeb3d67dd36ba60539f90af86dd17be924a51c491a&w=1800"
+    },
+    {
+        "id": 7,
+        "name": "Book Club Meeting",
+        "date": "2024-11-12",
+        "location": "Central Library (Community Room)",
+        "description": "Discuss your favorite book with fellow bibliophiles at our monthly book club meeting.",
+        "image": "https://img.freepik.com/free-vector/book-club-banner-with-people-read-books_107791-13236.jpg?t=st=1729910962~exp=1729914562~hmac=337074c745e9843b13e47fb73d6e64cf824d73453fdd07308fb92f02957cd51f&w=2000"
+    }
+]
